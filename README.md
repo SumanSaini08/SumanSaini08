@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Suman 👋
 
-<!--
-**SumanSaini08/SumanSaini08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical, real-world tech solutions — from automation bots to full websites.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- An AI-powered Telegram bot that auto-posts content (job alerts, entertainment, tech updates) and manages group interactions
+- A complete website for Akhil Bhartiya School, Kaithal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & tech I work with:
+- Automation: n8n, Groq API, Supabase
+- Web: HTML, CSS, JavaScript
+
+🌱 Currently exploring: no-code automation workflows and AI agent integrations
+
+📫 Let's connect if you're working on something interesting!
