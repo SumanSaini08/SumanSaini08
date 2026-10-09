@@ -19,14 +19,14 @@ My work focuses on:
 
 ## Featured Projects
 
-| Preview | Project | Description | Tech | Links |
-|---|---|---|---|---|
-| <img src="school-website.png" alt="Akhil Bhartiya School Website" width="220" /> | **Akhil Bhartiya School Website** | Official website for Akhil Bhartiya School, Kaithal (Haryana), with an integrated AI chatbot that answers visitor queries in real time. | HTML, CSS, JavaScript, Node.js | [Live Demo](https://akhil-bhartiya-school-abs-kaithal.vercel.app/) / [Code](https://github.com/SumanSaini08/Akhil-bhartiya-school) |
-| <img src="voice-assistant.png" alt="Voice Assistant" width="220" /> | **Voice Assistant** | Real-time voice AI agent with automatic Hindi and English language detection, giving spoken replies with low latency. | LiveKit, Groq, Cartesia, Next.js | [Live Demo](https://my-voice-frontend-one.vercel.app/) / [Code](https://github.com/SumanSaini08/livekit-voice-agent) |
-| <img src="office-toolkit.png" alt="Office Toolkit" width="220" /> | **Office Toolkit** | All-in-one office tool to create professional invoices and sign documents electronically. | Web Application | [Live Demo](https://office-toolkit.vercel.app/) / [Code](https://github.com/SumanSaini08/office-toolkit) |
-| <img src="audio-suffer.png" alt="Audio Suffer" width="220" /> | **Audio Suffer** | Web project deployed live on Vercel. | Web Application | [Live Demo](https://audio-suffer.vercel.app/) / [Code](https://github.com/SumanSaini08/Audio-Suffer) |
-| <img src="C:\Users\Dell\Downloads\Fruit puzzle Game.png" alt="Fruit Puzzle Game" width="220" /> | **Fruit Puzzle** | Match-3 puzzle game where players match fruits to score points and progress through levels. | TypeScript | [Play Now](https://candid-choux-08e8db.netlify.app/) / [Code](https://github.com/SumanSaini08/fruit-puzzle) |
-| <img src="telegram-bot.png" alt="Telegram Content Bot" width="220" /> | **Telegram Content Bot** | AI-driven automation bot that posts content across categories to Telegram on its own and handles smart auto-replies in groups. | n8n, Groq, Supabase | [Code](https://github.com/SumanSaini08/telegram-bot) |
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Akhil Bhartiya School Website** | Official website for Akhil Bhartiya School, Kaithal (Haryana), with an integrated AI chatbot that answers visitor queries in real time. | HTML, CSS, JavaScript, Node.js | [Live Demo](https://akhil-bhartiya-school-abs-kaithal.vercel.app/) / [Code](https://github.com/SumanSaini08/Akhil-bhartiya-school) |
+| **Voice Assistant** | Real-time voice AI agent with automatic Hindi and English language detection, giving spoken replies with low latency. | LiveKit, Groq, Cartesia, Next.js | [Live Demo](https://my-voice-frontend-one.vercel.app/) / [Code](https://github.com/SumanSaini08/livekit-voice-agent) |
+| **Office Toolkit** | All-in-one office tool to create professional invoices and sign documents electronically. | Web Application | [Live Demo](https://office-toolkit.vercel.app/) / [Code](https://github.com/SumanSaini08/office-toolkit) |
+| **Audio Suffer** | Web project deployed live on Vercel. | Web Application | [Live Demo](https://audio-suffer.vercel.app/) / [Code](https://github.com/SumanSaini08/Audio-Suffer) |
+| **Fruit Puzzle** | Match-3 puzzle game where players match fruits to score points and progress through levels. | TypeScript | [Play Now](https://candid-choux-08e8db.netlify.app/) / [Code](https://github.com/SumanSaini08/fruit-puzzle) |
+| **Telegram Content Bot** | AI-driven automation bot that posts content across categories to Telegram on its own and handles smart auto-replies in groups. | n8n, Groq, Supabase | [Code](https://github.com/SumanSaini08/telegram-bot) |
 
 ---
 
